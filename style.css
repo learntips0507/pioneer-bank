@@ -1,0 +1,35 @@
+.front-page{
+    padding: 10%;
+}
+.login-area{
+    margin-top: 40px;
+    box-shadow: 5px 5px 10px lightgray;
+    padding: 5% 5%;
+    border-radius: 5px;
+}
+#transition-area{
+    display: none;
+    padding: 100px;
+}
+.money-state{
+    color: white;
+    padding: 20px 20px;
+    border-radius: 15px;
+    margin-top: 50px;
+
+}
+.deposit{
+    background-color: cornflowerblue;
+}
+.withdraw{
+    background-color: goldenrod;
+}
+.balance{
+    background-color: indigo;
+}
+.login-form{
+    padding: 10% 5%;
+    margin-top: 5%;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
